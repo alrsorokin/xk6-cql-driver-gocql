@@ -1,4 +1,4 @@
-package ramsql
+package gocql
 
 import (
 	_ "embed"
